@@ -9,9 +9,9 @@ local GamesHub = {
     [9229146348] = "https://raw.githubusercontent.com/Xenon150/JUST-ONE-MORE-ASYM/refs/heads/main/JUST_ONE_MORE_ASYM.lua", -- JUST ONE MORE ASYM
     [6035872082] = "https://raw.githubusercontent.com/Xenon150/Rivals/refs/heads/main/Rivals.lua", -- Rivals
     [3620011279] = "https://raw.githubusercontent.com/Xenon150/Raf2/refs/heads/main/Raf2.lua", -- Raf2
-    [3647333358] = "https://raw.githubusercontent.com/Xenon150/Evade/refs/heads/main/Evade.lua", -- Evade
-    [1742264997] = "https://raw.githubusercontent.com/Xenon150/SCP-_Roleplay/refs/heads/main/SCP_Roleplay.lua" -- SCP roleplay"
-    [3140407822] = "https://raw.githubusercontent.com/Xenon150/Brother-s_Vow/refs/heads/main/brother's_vow.lua" -- Brother's Vow
+    [3647333358] = "https://raw.githubusercontent.com/Xenon150/evade12/refs/heads/main/evade.lua", -- Evade
+    [1742264997] = "https://raw.githubusercontent.com/Xenon150/SCP-_Roleplay/refs/heads/main/SCP_Roleplay.lua", -- SCP roleplay
+    [3140407822] = "https://raw.githubusercontent.com/Xenon150/Brother-s_Vow/refs/heads/main/brother's_vow.lua", -- Brother's Vow
 }
 
 local currentPlaceId = game.PlaceId
