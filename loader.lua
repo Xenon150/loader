@@ -13,6 +13,7 @@ local GamesHub = {
     [1742264997] = "https://raw.githubusercontent.com/Xenon150/SCP-_Roleplay/refs/heads/main/SCP_Roleplay.lua", -- SCP roleplay
     [3140407822] = "https://raw.githubusercontent.com/Xenon150/Brother-s_Vow/refs/heads/main/brother's_vow.lua", -- Brother's Vow
     [2440500124] = "https://raw.githubusercontent.com/Xenon150/Doors/refs/heads/main/doors.lua", -- Doors
+    [3317064564] = "https://raw.githubusercontent.com/Xenon150/Centaura/refs/heads/main/Centaura.lua", -- Centaura
 }
 
 local currentPlaceId = game.PlaceId
