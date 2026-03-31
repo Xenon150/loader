@@ -15,6 +15,7 @@ local GamesHub = {
     [2440500124] = "https://raw.githubusercontent.com/Xenon150/Doors/refs/heads/main/doors.lua", -- Doors
     [3317064564] = "https://raw.githubusercontent.com/Xenon150/Centaura/refs/heads/main/Centaura.lua", -- Centaura
     [8202280624] = "https://raw.githubusercontent.com/Xenon150/bitebynight/refs/heads/main/bitebynight.lua", --  Bite By Night
+    [9787206684] = "https://raw.githubusercontent.com/Xenon150/121/refs/heads/main/luckyblock.lua" -- be a lucky block or smth
 }
 
 local currentPlaceId = game.PlaceId
