@@ -1,3 +1,6 @@
+-- https://apis.roblox.com/universes/v1/places/124473577469410/universe
+
+
 if not game:IsLoaded() then
     game.Loaded:Wait()
 end
@@ -19,6 +22,7 @@ local GamesHub = {
     [3876150506] = "https://raw.githubusercontent.com/Xenon150/lucky/refs/heads/main/lucky.lua", -- drive world
     [7326934954] = "https://raw.githubusercontent.com/Xenon150/99/refs/heads/main/99.lua", -- 99 nights
     [4777817887] = "https://raw.githubusercontent.com/Xenon150/bladeball/refs/heads/main/bladeball.lua", -- blade ball
+    [9787206684] = "https://raw.githubusercontent.com/Xenon150/byaluckyblock/refs/heads/main/block.lua", -- lucky block
 }
 
 local currentPlaceId = game.PlaceId
