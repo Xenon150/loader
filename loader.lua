@@ -18,6 +18,7 @@ local GamesHub = {
     [9787206684] = "https://raw.githubusercontent.com/Xenon150/121/refs/heads/main/luckyblock.lua", -- be a lucky block or smth
     [3876150506] = "https://raw.githubusercontent.com/Xenon150/lucky/refs/heads/main/lucky.lua", -- drive world
     [7326934954] = "https://raw.githubusercontent.com/Xenon150/99/refs/heads/main/99.lua", -- 99 nights
+    [4777817887] = "https://raw.githubusercontent.com/Xenon150/bladeball/refs/heads/main/bladeball.lua", -- blade ball
 }
 
 local currentPlaceId = game.PlaceId
