@@ -1,4 +1,4 @@
--- https://apis.roblox.com/universes/v1/places/2753915549/universe
+-- https://apis.roblox.com/universes/v1/places/286090429/universe
 
 
 if not game:IsLoaded() then
@@ -24,6 +24,7 @@ local GamesHub = {
     [4777817887] = "https://raw.githubusercontent.com/Xenon150/bladeball/refs/heads/main/bladeball.lua", -- blade ball
     [9787206684] = "https://raw.githubusercontent.com/Xenon150/byaluckyblock/refs/heads/main/block.lua", -- lucky block
     [994732206] = "https://raw.githubusercontent.com/Xenon150/fruit/refs/heads/main/Fruit.lua", -- blox fruit
+    [111958650] = "https://raw.githubusercontent.com/Xenon150/arsenal/refs/heads/main/arsenal.lua", -- arsenal
 }
 
 local currentPlaceId = game.PlaceId
