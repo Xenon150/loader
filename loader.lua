@@ -25,6 +25,7 @@ local GamesHub = {
     [9787206684] = "https://raw.githubusercontent.com/Xenon150/byaluckyblock/refs/heads/main/block.lua", -- lucky block
     [994732206] = "https://raw.githubusercontent.com/Xenon150/fruit/refs/heads/main/Fruit.lua", -- blox fruit
     [111958650] = "https://raw.githubusercontent.com/Xenon150/arsenal/refs/heads/main/arsenal.lua", -- arsenal
+    [1119466531] = "https://raw.githubusercontent.com/Xenon150/speed/refs/heads/main/121", -- Legends Of Speed 
 }
 
 local currentPlaceId = game.PlaceId
